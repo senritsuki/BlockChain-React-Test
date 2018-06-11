@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+#MyChain {
+  margin: 0 auto;
+  padding: 0 2em 2em;
+  max-width: 1200px;
+}
+h2,
+h3 {
+  border-bottom: 1px solid #a6a6a6;
+}
+.Block,
+.Message {
+  font-family: monospace;
+}
+.Block table,
+.Message table {
+  margin: 0;
+  border-collapse: collapse;
+}
+.Block td,
+.Message td {
+  padding: 0.2em 1em;
+  border-bottom: 1px solid #a6a6a6;
+}
+.form {
+  margin: 1em 0;
+}
